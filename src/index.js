@@ -1,7 +1,14 @@
+//React
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+
+//CSS
 import './index.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+//Components
 import App from './App';
+
 import reportWebVitals from './reportWebVitals';
 
 //Routing
